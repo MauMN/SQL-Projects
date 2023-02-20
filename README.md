@@ -1,2 +1,2 @@
 # SQL-Projects
- Contains SQL small projects
+ Contains data analysis with SQL and ocasionally Tableau/PowerBI visualizations.
